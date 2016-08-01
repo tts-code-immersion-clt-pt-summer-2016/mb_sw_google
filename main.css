@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;-box;
+}
+
+body {
+	background-color: #FFF;
+	font-family: 'Noto Sans', sans-serif;
+	font-weight:  300;
+	color: #222;
+}
+
+.logo {
+	margin-top: 15%;
+	margin-left: 40%;
+	}
+
+input {
+	margin-left: 30%;
+	width: 40%;
+	height: 40;
+	border-top-color: rgba(0, 0, 255, 0.3);
+	border-bottom-color: rgba(0, 0, 255, 0.8);
+	border-left-color: rgba(0, 0, 255, 0.3);
+	border-right-color: rgba(0, 0, 255, 0.8);
+
+}
+
+button.google-search {
+	margin-left: 40%;
+	margin-top: 2.5%;
+	font-size: 16px;
+}
+
+button.lucky {
+	font-size: 16px;
+}
+
+.left {
+	position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+	}
+
+
+.upper-nav {
+	position: absolute;
+	 top: 8px;
+	 right: 16px;
+	 font-size: 18px;
+}
+
+
+.right{
+	position: absolute;
+	    bottom: 8px;
+	    right: 16px;
+	    font-size: 18px;
+}
